@@ -20,8 +20,8 @@
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.tmobile.theme.Cherry"
     android:hasCode="false"
-    android:versionCode="1" 
-    android:versionName="1.1">
+    android:versionCode="12" 
+    android:versionName="1.2">
 
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
